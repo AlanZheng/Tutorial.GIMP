@@ -9,6 +9,7 @@
 好的PS图片是从好的“选择”开始的，GIMP里面的选择工具很丰富，基于这次的任务需要先介绍固定大小选择。
 
 启动GIMP后会看到工具栏上的这5个图标，分别是：
+
 ![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1511492365/xdo4myzu94rh86vxkvgm.png)
 
 ![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1511492395/b1dcfj11s1gn0ygdngpj.png)
