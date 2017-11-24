@@ -24,6 +24,6 @@
 
 这次使用的是“矩形选择工具”中的“固定大小选择”。工具及设置选择如下：
 
-![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1511492812/b1lfgff1eanpwki9iek5.png)
+![image.png](https://steemitimages.com/0x0/https://res.cloudinary.com/hpiynhbhq/image/upload/v1511512197/znieeqazfnbfvtr9ndkp.png)
 
 把所有的图片全部作为图层打开，然后用“固定大小选择框”选取需要的位置，保存即可。
