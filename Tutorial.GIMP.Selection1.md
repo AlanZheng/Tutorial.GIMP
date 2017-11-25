@@ -8,19 +8,21 @@
 
 好的PS图片是从好的“选择”开始的，GIMP里面的选择工具很丰富，基于这次的任务需要先介绍固定大小选择。
 
-启动GIMP后会看到工具栏上的这5个图标，分别是：
+启动GIMP后会看到工具栏上的这7个图标，分别是：
 
-![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1511492365/xdo4myzu94rh86vxkvgm.png)
+（1）![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1511611095/yhtgks6ibt5sikcbji4f.png)
 
-![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1511492395/b1dcfj11s1gn0ygdngpj.png)
+（2）![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1511611168/yigpxspfrxfcqgb6vcxg.png)
 
-![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1511492426/mefasqmnofkggryo6eqd.png)
+（3）![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1511611221/gtg9ujgmsdtw2nrn3qff.png)
 
-![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1511491422/ofhwydom744oykxtzo7i.png)
+（4）![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1511611282/xwu76odhxpvjsxrj45oc.png)
 
-![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1511491528/nigmhm8qzkxqk91xfr1h.png)
+（5）![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1511611442/abko0tgtuyfbseblhwiv.png)
 
-![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1511491604/u0janugh0tdbga5swwm7.png)
+（6）![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1511611489/vkauoqtr5krm1pjrmtit.png)
+
+（7）![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1511611539/albyhplfavlil4dqqlaj.png)
 
 把所有的图片全部作为图层打开
 
@@ -41,15 +43,15 @@
 ***
 
 
-接下来介绍前3个基本“选择工具”：
+接下来介绍前3个基本“选择工具”，分别是矩形，椭圆，和自由选择工具：
 
-![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1511492365/xdo4myzu94rh86vxkvgm.png)
+（1）![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1511492365/xdo4myzu94rh86vxkvgm.png)
 
-![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1511492395/b1dcfj11s1gn0ygdngpj.png)
+（2）![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1511492395/b1dcfj11s1gn0ygdngpj.png)
 
-![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1511492426/mefasqmnofkggryo6eqd.png)
+（3）![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1511492426/mefasqmnofkggryo6eqd.png)
 
-这3个“选择工具"如图片中显示。分别是矩形，椭圆，和自由选择工具：
+默认设置选择如下图所示：
 
 ![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1511585306/kvzipeysctpwppz0gw15.png)
 
@@ -61,4 +63,24 @@
 
 ![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1511587545/b92tjreiszrpghns1rqn.png)
 
-<br /><hr/><em>Posted on <a href="https://utopian.io/utopian-io/@alanzheng/gimp-1">Utopian.io -  Rewarding Open Source Contributors</a></em><hr/>
+设定固定宽高比时可以做正方形和圆形选择，如下：
+
+![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1511612158/gwg1o3biubbiacoxxujb.png)
+
+需要对选区做准确定位的时候可以设置显示中心线，如下：
+
+![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1511612399/gh6y6zqiqvepujk4zmrt.png)
+
+![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1511612454/fjuxafc2pzyetffzfsma.png)
+
+对2个或者多个选区做合并，如下：
+
+![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1511612606/gtslh3nl9emttzgze5hc.png)
+
+用前一个选区减去后面其他的选区，如下：
+
+![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1511612735/usone1kzdi7zwy3jicfg.png)
+
+对多个选区求交，如下：
+
+![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1511612824/avdvzcyunupsmu4f0sfy.png)
