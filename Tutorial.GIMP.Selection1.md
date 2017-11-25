@@ -36,7 +36,12 @@
 
 ![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1511584538/egwnfypvhjyvglf5vacr.png)
 
-到这里本文开始部分的任务完成了。接下来再介绍一下3个选择工具：
+到这里本文开始部分的任务完成了。
+
+***
+
+
+接下来介绍前3个基本“选择工具”：
 
 ![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1511492365/xdo4myzu94rh86vxkvgm.png)
 
@@ -44,17 +49,16 @@
 
 ![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1511492426/mefasqmnofkggryo6eqd.png)
 
-这3个选择工具如图片中显示。
-分别是矩形，椭圆，和自由选择工具：
+这3个“选择工具"如图片中显示。分别是矩形，椭圆，和自由选择工具：
 
 ![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1511585306/kvzipeysctpwppz0gw15.png)
 
-如果在“选择工具”选项中不设定“边缘羽化”，效果如下：
+需要注意的是”边缘羽化“，默认GIMP“选择工具”选项中不设定“边缘羽化”，效果如下：
 
 ![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1511585671/f1iuuvnjtdswzvff5bra.png)
 
-设定“边缘羽化”，效果如下：
+设定“边缘羽化”为20，效果如下：
 
-![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1511585873/h5bjbgslannnprwpbgym.png)
+![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1511587545/b92tjreiszrpghns1rqn.png)
 
 <br /><hr/><em>Posted on <a href="https://utopian.io/utopian-io/@alanzheng/gimp-1">Utopian.io -  Rewarding Open Source Contributors</a></em><hr/>
