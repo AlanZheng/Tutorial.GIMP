@@ -2,7 +2,7 @@
 
 前段时间在做视频处理，需要在视频中加入图片，要求每张图片大小一致。本来打算用程序自动处理，打开每张图片大致浏览了一下，放弃。因为每张图片中所需要的部位不一样。瞬间感觉在电脑上工作其实根本就是一个体力活。但是本着偷懒的原则，还是尽量少费点体力。
 
-隆重推荐GIMP--开源界的PhotoShop：
+隆重推荐[GIMP](https://www.gimp.org)--开源界的PhotoShop：
 
 ![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1511494245/gvrsurkb1g8vj9usedkh.png)
 
@@ -84,3 +84,5 @@
 对多个选区求交，如下：
 
 ![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1511612824/avdvzcyunupsmu4f0sfy.png)
+
+<br /><hr/><em>Posted on <a href="https://utopian.io/utopian-io/@alanzheng/gimp-1">Utopian.io -  Rewarding Open Source Contributors</a></em><hr/>
