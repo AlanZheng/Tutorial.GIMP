@@ -43,7 +43,7 @@
 ***
 
 
-接下来介绍前3个基本“选择工具”，分别是矩形，椭圆，和自由选择工具：
+接下来介绍前3个基本“选择工具”，分别是矩形，椭圆，和自由选择工具，这3个选择工具有类似的操作，都是通过拖动鼠标来形成一个封闭的区域形成选区。
 
 （1）![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1511492365/xdo4myzu94rh86vxkvgm.png)
 
@@ -55,11 +55,15 @@
 
 ![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1511585306/kvzipeysctpwppz0gw15.png)
 
+下面左边黑色选区是**没有设定**“边缘平滑”，有边选区是**设定了**“边缘平滑”的对比，可以看到左边选区比右边选区边缘部分锯齿现象明显。
+
+![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1511662584/gcvbdxoaj0qs5ygv3uw3.png)
+
 需要注意的是”边缘羽化“，默认GIMP“选择工具”选项中不设定“边缘羽化”，效果如下：
 
 ![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1511585671/f1iuuvnjtdswzvff5bra.png)
 
-设定“边缘羽化”为20，效果如下：
+设定“边缘羽化”为20，效果如下。对比可以看到，设定“边缘羽化”后在选区的边缘处会有一个明显的颜色过渡。看起来更柔和一些。
 
 ![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1511587545/b92tjreiszrpghns1rqn.png)
 
