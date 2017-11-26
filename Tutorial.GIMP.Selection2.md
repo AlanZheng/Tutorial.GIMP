@@ -74,3 +74,15 @@
 当选区大于最终需要的选区时，可以用[GIMP教程之“选择工具”（1）](https://utopian.io/utopian-io/@alanzheng/gimp-1)中介绍的选区相减并使用“自由选择工具”对选区做合适的调整，最终的选区如下：
 
 ![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1511674639/dl595tcmoiuh03ueaf39.png)
+
+另外，还有一个不放在选择工具集中，但是可以创建选区的工具：**路径工具**，如下图：
+
+![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1511685394/bwdvek5lrrx8mzatnu2w.png)
+
+点选需要选择的区域，并且闭合路径。
+
+![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1511685551/k9qkso4cdnrz2t3rtqyf.png)
+
+然后在路径工具选项上选择“从路径创建选区”，即可得到如下选区：
+
+![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1511685677/rlhxs4rjnzjef2qhtlhf.png)
