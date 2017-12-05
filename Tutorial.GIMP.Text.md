@@ -13,15 +13,15 @@ In this tutorial, I will introduce the **Text** tool
 
 ![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1512455570/hplk9c8vpiyadrzfqx1b.png)
 
-**文字**工具，用来在GIMP中创建后者编辑文字图层，如下图。在文字工具选项中可以设置文字的字体，颜色，大小，对齐方式等。
+**文字**工具，用来在GIMP中创建或者编辑文字图层，如下图。在文字工具选项中可以设置文字的字体，颜色，大小，对齐方式等。
 
 ![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1512455881/p0ihclzsksso1x3y7nne.png)
 
-在文本框中可以输入文字，比如：
+在文本框中输入文字，比如：
 
 ![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1512456108/h5z8mfapzjdqzhbybo7s.png)
 
-可以使用文字编辑器输入：
+也可以使用文字编辑器输入：
 
 ![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1512456162/bt2bv4fz82sym7x2wt4s.png)
 
@@ -66,39 +66,47 @@ In this tutorial, I will introduce the **Text** tool
 ![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1512457500/cxbcldnzee5letnqbmso.png)
 
 在工具选项中设置文本框的属性，可以是**固定**或者**动态**。
-固定表示文本框的尺寸是固定的，输入文字大于文本框的部分将不会显示，动态表示文本框会随着输入文字做动态调整。
+固定表示文本框的尺寸是固定的，输入的文字小于文本框时文本框不会随之缩小。输入文字大于文本框是文本框也不会增大，超出文本框的部分将不会显示。如下图：
 
-![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1512457655/m0mqalqycppqbljlu6ej.png)
+![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1512463921/kg2uvqhfecxz8ccozhac.png)
 
-对选择的文字**加粗**：
+动态表示文本框会随着输入文字做动态调整。比如下面单行文本，文本框会跟随文字长度。
+
+![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1512463697/oqyc41plcw2j95edhtmg.png)
+
+加入换行后变成，文本框恰好包括文本。如下图：
+
+![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1512463833/y2z1kt6nm0uienqomltx.png)
+
+在动态编辑器中对选择的文字**加粗**：
 
 ![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1512457816/urulv2qgvhzxq6zkggb0.png)
 
-对选择的文字做**倾斜**：
+在动态编辑器中对选择的文字做**倾斜**：
 
 ![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1512457853/ilfpjjk7gqbk2o3htnx8.png)
 
-对选择的文字添加**下划线**：
+在动态编辑器中对选择的文字添加**下划线**：
 
 ![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1512457898/fqh5qdy0qpw2mmtphi0t.png)
 
-对选择的文字添加**删除线**：
+在动态编辑器中对选择的文字添加**删除线**：
 
 ![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1512457949/gsz5nvq5uerej7yxtuvs.png)
 
-调整选中文字的**基线**：
+在动态编辑器中调整选中文字的**基线**：
 
 ![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1512458077/zjrilruiondwa2obib7g.png)
 
-调整选中文字的**间距**：
+在动态编辑器中调整选中文字的**间距**：
 
 ![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1512458125/v8xtdeucubfrfjxppldt.png)
 
-改变选中文字的**颜色**：
+在动态编辑器中改变选中文字的**颜色**：
 
 ![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1512458189/cr4qtib8wnlogb9wmvpc.png)
 
-清除选中文字的**格式**：
+在动态编辑器中清除选中文字的**格式**：
 
 ![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1512458255/yhktdmg0gz2b1kp4m5ff.png)
 
