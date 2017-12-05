@@ -1,3 +1,5 @@
+GIMP教程之"涂画工具"（2）| GIMP tutorial -- Paint Tools (2)
+
 ![Tutorial.GIMP.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1511486986/feaponrcwwtwu0vmiizt.png)
 
 Summary:
