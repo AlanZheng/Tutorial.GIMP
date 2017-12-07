@@ -4,7 +4,7 @@ GIMP教程之"文字工具" | GIMP tutorial -- Text Tools
 
 Summary:
 
-In this tutorial, I will introduce the **Text** tool
+In this tutorial, I will introduce the **Text** tool, and how to use **Text** tool creating golden text.
 
 ![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1512455457/vndsl50tc4mhz0lg9jk8.png)
 
@@ -111,3 +111,32 @@ In this tutorial, I will introduce the **Text** tool
 ![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1512458255/yhktdmg0gz2b1kp4m5ff.png)
 
 文字工具选项中的设置是对文本框中所有的文字有效，动态编辑器中的设置只对选中的文本有效。
+
+---
+</br>
+
+下面用文字工具做一个金属文字的实例：
+
+文字工具做如下设置：
+
+![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1512649953/mvebuonucdopmgeaedzg.png)
+
+将文字做为选区，并选择**混合**工具，设置如下图：
+
+![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1512650226/rbj1kbckbdhkfc8mfpqm.png)
+
+**混合**后如下图：
+
+![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1512650320/atyhovzsbccikkkayn1n.png)
+
+选择选区边界，并用黑色笔刷将边界选区涂为黑色。然后摈弃所有选区，即可做出金属文字如下图：
+
+![image.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1512650490/ywjjo3tgieczwcq2jx8u.png)
+
+本例中所使用到的**选区**工具，**混合**工具，以及**画笔**工具请参考：
+
+[GIMP教程之"选择工具"（1）](https://steemit.com/utopian-io/@alanzheng/gimp-1)
+[GIMP教程之"选择工具"（2）](https://steemit.com/utopian-io/@alanzheng/gimp-2)
+[GIMP教程之"涂画工具"（1）](https://steemit.com/utopian-io/@alanzheng/gimp-1-or-gimp-tutorial-paint-tools-1)
+
+<br /><hr/><em>Posted on <a href="https://utopian.io/utopian-io/@alanzheng/gimp-or-gimp-tutorial-text-tool">Utopian.io -  Rewarding Open Source Contributors</a></em><hr/>
